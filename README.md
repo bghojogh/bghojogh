@@ -8,14 +8,14 @@
 
 <h3 align="left">My Profiles:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/benyamin-ghojogh-97423276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/benyamin-ghojogh-97423276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a>
 <a href="https://scholar.google.com/citations?user=U8qAL-0AAAAJ&hl=en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" alt="google-scholar" height="40" width="40" /></a>
-<a href="https://www.researchgate.net/profile/Benyamin-Ghojogh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1200px-ResearchGate_icon_SVG.svg.png" alt="researchgate" height="40" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Benyamin-Ghojogh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1200px-ResearchGate_icon_SVG.svg.png" alt="researchgate" height="30" width="30" /></a>
 <a href="https://dblp.org/pid/205/2826.html" target="blank"><img align="center" src="https://dblp.org/img/dblp.icon.192x192.png" alt="dblp" height="40" width="40" /></a>
 <a href="https://github.com/bghojogh" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2368/PNG/512/github_logo_icon_143772.png" alt="github" height="40" width="40" /></a>
 <a href="https://paperswithcode.com/search?q=author%3ABenyamin+Ghojogh" target="blank"><img align="center" src="https://paperswithcode.com/static/logo.png" alt="paperswithcode" height="40" width="40" /></a>
 <a href="https://www.csauthors.net/benyamin-ghojogh/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/634282481735348224/23QP30-9_400x400.png" alt="csauthors" height="40" width="40" /></a>
-<a href="https://orcid.org/0000-0002-9617-291X" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" alt="orcid" height="40" width="40" /></a>
+<a href="https://orcid.org/0000-0002-9617-291X" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" alt="orcid" height="30" width="30" /></a>
   
 <h3 align="left">Most Expert Language:</h3>
 
