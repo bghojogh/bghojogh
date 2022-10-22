@@ -4,7 +4,8 @@
 
 <h3 align="left">My Tutorials:</h3>
 
-- 👨‍💻 My tutorials are available at: <a href="https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Ghojogh%2C+B&terms-0-field=author&terms-1-operator=AND&terms-1-term=Tutorial&terms-1-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first">Click here!</a>
+- 👨‍💻 My tutorials are available at: <a href="https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Ghojogh%2C+B&terms-0-field=author&terms-1-operator=AND&terms-1-term=Tutorial&terms-1-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first">arXiv tutorials</a>
+- 👨‍💻 My textbook "Elements of Dimensionality Reduction and Manifold Learning" is available at: <a href="https://www.amazon.co.uk/Elements-Dimensionality-Reduction-Manifold-Learning/dp/3031106016">Amazon</a> & <a href="https://www.google.ca/books/edition/Elements_of_Dimensionality_Reduction_and/nyM5zwEACAAJ?hl=en&kptab=overview">Google books</a>
 
 <h3 align="left">My Profiles:</h3>
 <p align="left">
