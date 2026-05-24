@@ -4,12 +4,25 @@
 
 <h3 align="left">My Tutorials:</h3>
 
+- 👨‍💻 My textbook "Elements of Dimensionality Reduction and Manifold Learning" is available at: <a href="https://link.springer.com/book/10.1007/978-3-031-10602-6">Springer</a> & <a href="https://www.amazon.co.uk/Elements-Dimensionality-Reduction-Manifold-Learning/dp/3031106016">Amazon</a> & <a href="https://www.google.ca/books/edition/Elements_of_Dimensionality_Reduction_and/ScKrEAAAQBAJ">Google books</a>
+- 👨‍💻 My textbook "Elements of Deep Learning" is available at: <a href="https://link.springer.com/book/10.1007/978-3-032-10738-1">Springer</a> & <a href="https://www.amazon.ca/Elements-Deep-Learning-Benyamin-Ghojogh/dp/3032107377/">Amazon</a> & <a href="https://www.google.ca/books/edition/Elements_of_Deep_Learning/L5bWEQAAQBAJ">Google books</a>
 - 👨‍💻 My tutorials are available at: <a href="https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Ghojogh%2C+B&terms-0-field=author&terms-1-operator=AND&terms-1-term=Tutorial&terms-1-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first">arXiv tutorials</a>
-- 👨‍💻 My textbook "Elements of Dimensionality Reduction and Manifold Learning" is available at: <a href="https://www.amazon.co.uk/Elements-Dimensionality-Reduction-Manifold-Learning/dp/3031106016">Amazon</a> & <a href="https://www.google.ca/books/edition/Elements_of_Dimensionality_Reduction_and/nyM5zwEACAAJ?hl=en&kptab=overview">Google books</a>
 
 <h3 align="left">My Profiles:</h3>
+
+- <a href="https://www.linkedin.com/in/benyamin-ghojogh-97423276/" target="blank">LinkedIn</a>
+- <a href="https://scholar.google.com/citations?user=U8qAL-0AAAAJ&hl=en" target="blank">Google Scholar</a>
+- <a href="https://www.researchgate.net/profile/Benyamin-Ghojogh" target="blank">ResearchGate</a>
+- <a href="https://dblp.org/pid/205/2826.html" target="blank">DBLP</a>
+- <a href="https://github.com/bghojogh" target="blank">GitHub</a>
+- <a href="https://www.webofscience.com/wos/author/record/809583" target="blank">Web of Science (for Peer Reviews I have done)</a>
+- <a href="https://paperswithcode.com/search?q=author%3ABenyamin+Ghojogh" target="blank">Papers with Code</a>
+- <a href="https://www.csauthors.net/benyamin-ghojogh/" target="blank">CS Authors</a>
+- <a href="https://orcid.org/0000-0002-9617-291X" target="blank">ORCID</a>
+
+<!--
 <p align="left">
-<!-- <a href="https://www.linkedin.com/in/benyamin-ghojogh-97423276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a> -->
+<a href="https://www.linkedin.com/in/benyamin-ghojogh-97423276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a> 
 <a href="https://scholar.google.com/citations?user=U8qAL-0AAAAJ&hl=en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" alt="google-scholar" height="40" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Benyamin-Ghojogh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1200px-ResearchGate_icon_SVG.svg.png" alt="researchgate" height="30" width="30" /></a>
 <a href="https://dblp.org/pid/205/2826.html" target="blank"><img align="center" src="https://dblp.org/img/dblp.icon.192x192.png" alt="dblp" height="40" width="40" /></a>
@@ -18,43 +31,84 @@
 <a href="https://paperswithcode.com/search?q=author%3ABenyamin+Ghojogh" target="blank"><img align="center" src="https://paperswithcode.com/static/logo.png" alt="paperswithcode" height="40" width="40" /></a>
 <a href="https://www.csauthors.net/benyamin-ghojogh/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/634282481735348224/23QP30-9_400x400.png" alt="csauthors" height="40" width="40" /></a>
 <a href="https://orcid.org/0000-0002-9617-291X" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" alt="orcid" height="30" width="30" /></a>
+-->
   
 <h3 align="left">My Main Programming Language:</h3>
 
+- <a href="https://www.python.org" target="blank">Python</a>
+
+<!--
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+-->
 
 <h3 align="left">Other Languages I Have Worked With:</h3>
 
+- <a href="https://www.cprogramming.com/" target="blank">C</a>
+- <a href="https://www.w3schools.com/cpp/" target="blank">C++</a>
+- <a href="https://www.java.com" target="blank">Java</a>
+- <a href="https://www.mathworks.com/" target="blank">MATLAB</a>
+<!-- 
+- <a href="https://www.r-project.org/" target="blank">R</a>
+-->
+
+<!--
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+-->
 
 <h3 align="left">Machine Learning & Computer Vision Tools:</h3>
 
+- <a href="https://scikit-learn.org/" target="blank">Scikit-learn</a>
+- <a href="https://pandas.pydata.org/" target="blank">Pandas</a>
+- <a href="https://opencv.org/" target="blank">OpenCV</a>
+
+<!--
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+-->
 
 <h3 align="left">Deep Learning Tools:</h3>
 
+- <a href="https://pytorch.org/" target="blank">PyTorch</a>
+- <a href="https://www.tensorflow.org" target="blank">TensorFlow</a>
+
+<!--
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+-->
 
 <h3 align="left">Coding Tools:</h3>
 
+- <a href="https://code.visualstudio.com/" target="blank">Visual Studio Code</a>
+- <a href="https://www.anaconda.com/" target="blank">Anaconda</a>
+- <a href="https://jupyter.org/" target="blank">Jupyter</a>
+- <a href="https://git-scm.com/" target="blank">Git</a>
+
+<!--
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://www.nicepng.com/png/detail/85-851058_anaconda-icon-anaconda-python-icon.png" alt="anaconda" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>     </p>
+-->
 
 <h3 align="left">Writing Tools:</h3>
 
-<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png" alt="latex" width="100" height="40"/> </a>
+- <a href="https://www.latex-project.org/" target="blank">LaTex</a>
 
+<h3 align="left">Statistics and Activity of my GitHub:</h3>
+
+<!--
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png" alt="latex" width="100" height="40"/> </a>
+-->
+
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bghojogh&show_icons=true&locale=en&layout=compact" alt="bghojogh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bghojogh&show_icons=true&locale=en" alt="bghojogh" /></p>
+-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bghojogh&" alt="bghojogh" /></p>
 
