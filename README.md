@@ -45,7 +45,7 @@
      - https://patents.google.com/patent/WO2025123146A1/en
      - https://app.dimensions.ai/details/patent/WO-2025123146-A1
      - https://app.dimensions.ai/downloads/patents?ucid=WO-2025123146-A1
-   - Chinese patent application (mainland China):
+   - Chinese patent application:
      - https://patents.google.com/patent/CN122580701A/en
    - Taiwanese patent application:
      - https://patents.google.com/patent/TW202541041A/zh
