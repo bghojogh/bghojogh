@@ -51,7 +51,7 @@
      - https://patents.google.com/patent/TW202541041A/zh
      - https://app.dimensions.ai/details/patent/TW-202541041-A
      - https://app.dimensions.ai/downloads/patents?ucid=TW-202541041-A
-   - Korean patent application (publication number not independently verified):
+   - Korean patent application:
      - https://app.dimensions.ai/details/patent/KR-20260121975-A
      - https://app.dimensions.ai/downloads/patents?ucid=KR-20260121975-A
   
