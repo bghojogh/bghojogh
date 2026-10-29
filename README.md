@@ -32,6 +32,28 @@
 <a href="https://www.csauthors.net/benyamin-ghojogh/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/634282481735348224/23QP30-9_400x400.png" alt="csauthors" height="40" width="40" /></a>
 <a href="https://orcid.org/0000-0002-9617-291X" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" alt="orcid" height="30" width="30" /></a>
 -->
+
+<h3 align="left">My Patents:</h3>
+
+1. System and method for mapping molecules into interfaces:
+   - US patent (granted):
+     - https://patentsgazette.uspto.gov/week39/OG/html/1550-5/US12749558-20260929.html
+     - https://patents.google.com/patent/US20250201352A1/en
+     - https://app.dimensions.ai/details/patent/US-12749558-B2
+     - https://app.dimensions.ai/downloads/patents?ucid=US-12749558-B2
+   - PCT international patent application:
+     - https://patents.google.com/patent/WO2025123146A1/en
+     - https://app.dimensions.ai/details/patent/WO-2025123146-A1
+     - https://app.dimensions.ai/downloads/patents?ucid=WO-2025123146-A1
+   - Chinese patent application (mainland China):
+     - https://patents.google.com/patent/CN122580701A/en
+   - Taiwanese patent application:
+     - https://patents.google.com/patent/TW202541041A/zh
+     - https://app.dimensions.ai/details/patent/TW-202541041-A
+     - https://app.dimensions.ai/downloads/patents?ucid=TW-202541041-A
+   - Korean patent application (publication number not independently verified):
+     - https://app.dimensions.ai/details/patent/KR-20260121975-A
+     - https://app.dimensions.ai/downloads/patents?ucid=KR-20260121975-A
   
 <h3 align="left">My Main Programming Language:</h3>
 
