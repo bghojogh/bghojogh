@@ -27,7 +27,7 @@
 <a href="https://orcid.org/0000-0002-9617-291X" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/2048px-ORCID_iD.svg.png" alt="orcid" height="30" width="30" /></a>
 -->
 
-<h3 align="left">My Tutorials:</h3>
+<h3 align="left">My Textbooks and Tutorials:</h3>
 
 - 👨‍💻 My textbook "Elements of Dimensionality Reduction and Manifold Learning" is available at: <a href="https://link.springer.com/book/10.1007/978-3-031-10602-6">Springer</a> & <a href="https://www.amazon.co.uk/Elements-Dimensionality-Reduction-Manifold-Learning/dp/3031106016">Amazon</a> & <a href="https://www.google.ca/books/edition/Elements_of_Dimensionality_Reduction_and/ScKrEAAAQBAJ">Google books</a>
 - 👨‍💻 My textbook "Elements of Deep Learning" is available at: <a href="https://link.springer.com/book/10.1007/978-3-032-10738-1">Springer</a> & <a href="https://www.amazon.ca/Elements-Deep-Learning-Benyamin-Ghojogh/dp/3032107377/">Amazon</a> & <a href="https://www.google.ca/books/edition/Elements_of_Deep_Learning/L5bWEQAAQBAJ">Google books</a>
