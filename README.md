@@ -133,6 +133,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bghojogh&show_icons=true&locale=en" alt="bghojogh" /></p>
 -->
 
+<!--
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=bghojogh&show_icons=true&include_all_commits=true&theme=highcontrast)
+-->
+
+<!--
+![My GitHub Stats](https://github-stats-extended.vercel.app/api?username=bghojogh&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show=contributions,prs_authored,prs_merged,prs_merged_percentage,reviews,prs_commented,prs_reviewed,issues_commented&theme=highcontrast)
+-->
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bghojogh&" alt="bghojogh" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bghojogh&label=Profile%20views&color=0e75b6&style=flat" alt="bghojogh" /> </p>
